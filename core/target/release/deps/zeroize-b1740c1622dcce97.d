@@ -1,0 +1,11 @@
+/Users/alice/Desktop/folder_code/projects/lab/speedtest/core/target/release/deps/zeroize-b1740c1622dcce97.d: /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/lib.rs /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/aarch64.rs /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/barrier.rs /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/stack.rs /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/../README.md
+
+/Users/alice/Desktop/folder_code/projects/lab/speedtest/core/target/release/deps/libzeroize-b1740c1622dcce97.rlib: /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/lib.rs /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/aarch64.rs /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/barrier.rs /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/stack.rs /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/../README.md
+
+/Users/alice/Desktop/folder_code/projects/lab/speedtest/core/target/release/deps/libzeroize-b1740c1622dcce97.rmeta: /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/lib.rs /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/aarch64.rs /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/barrier.rs /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/stack.rs /Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/../README.md
+
+/Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/lib.rs:
+/Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/aarch64.rs:
+/Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/barrier.rs:
+/Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/stack.rs:
+/Users/alice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize-1.9.1/src/../README.md:
